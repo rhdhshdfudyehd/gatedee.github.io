@@ -1,1 +1,1 @@
-# gatedee.github.io
+# github.io
